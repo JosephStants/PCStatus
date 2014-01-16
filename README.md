@@ -1,8 +1,7 @@
-Title:  PCStatus
+PCStatus
 ================
 
 Purpose: To provide at a glance computer status and basic troubleshooting utilities
------------------------------------------------------------------------------------
 
 Author: Joseph Stants
 
